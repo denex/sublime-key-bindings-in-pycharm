@@ -15,10 +15,6 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="meta w" />
-  </action>
-  <action id="CloseContent" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
